@@ -34,3 +34,7 @@ This project presents an Information Retrieval system developed to identify and 
   - **Recall** and **Precision** are calculated manually to evaluate the retrieval performance.
 
 This approach ensures a comprehensive understanding of information retrieval, from text preprocessing to evaluation, with hands-on learning by AI students.
+
+- **Datasets**:
+The dataset in the **data_DMproject** folder contains 32 text documents, with 5 irrelevant ones. The remaining 27 documents discuss medications broadly, but they do not focus on specific diseases or infections. This project, however, aims to prioritize documents related to **popular diseases and infections**, to make the system more targeted and relevant to users seeking information on these common health issues.
+
