@@ -1,0 +1,15 @@
+Microsoft Surface Pro X
+The Surface Pro X looks pretty similar to other Microsoft Surfaces at first glance: it's a big slab of glass with a 3:2 aspect ratio and a nifty kickstand on the back to hold itself up. There are a few key differences, though, that makes the Pro X look slightly more refined. Its edges are more rounded, and its bezels are thinner than on the Surface Pro 7. They're minor changes, but they give the Pro X a sleeker, more distinguished look.
+It's also incredibly light. At just 1.7 pounds (without the Type Cover attached), it's a bit heavier than the 12.9-inch iPad Pro, but that's without Apple's Magic Keyboard attached. Once you latch a keyboard onto each tablet, the Surface Pro X comes out slightly ahead at a total of 2.38 pounds, which is significantly lighter than the iPad Pro with Magic Keyboard's 3.0 pounds.
+The Type Cover works great, too. If you're familiar with the Surface Pro's traditional covers, it's pretty much the exact same thing: it attaches to the bottom of the Surface via a strip of magnets and can be positioned at two different angles for your preferred typing experience. The keyboard itself is spacious, and its keys have enough depth to help prevent discomfort over long typing sessions. There's even a slot above the keys to hold your stylus in place, should you choose to snag one.
+Here are the specs of the model we tested:
+•	Processor: Microsoft SQ2 ARM
+•	Graphics: SQ2 Adreno 690 GPU
+•	RAM: 16GB
+•	Storage: 256GB SSD
+•	Display: 13” 2880 x 1920 (3:2 aspect ratio)
+•	Wireless connectivity: Wi-Fi 5: 802.11ac, Qualcomm Snapdragon X24 LTE modem
+•	Webcam: 5.0MP front-facing camera
+•	Battery: Up to 15 hours of “typical usage”
+•	Weight: 1.7 lbs
+
